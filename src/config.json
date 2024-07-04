@@ -1,0 +1,29 @@
+{
+  "pathToSiteFolder": [
+    "Desktop",
+    "sites"
+  ],
+  "fileNames": [
+    "visited_links",
+    "failed_links",
+    "visit_links",
+    "revisit_links",
+    "special_links",
+    "other_links",
+    "wrong_links",
+    "not_needed",
+    "error_links",
+    "captcha_links"
+  ],
+
+  "searchTerms": [
+    "developer",
+    "software",
+    "java"
+  ],
+  
+  "site": "site",
+  "netloc": "www.site.com",
+  "zipCodesFileName": "zipCodes",
+  "zipCodesJson": "zipCodes.json"
+}

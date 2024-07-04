@@ -1,0 +1,10 @@
+{
+    "netloc":"www.indeed.com", 
+    "schema":"https://", 
+    "tld":".com", 
+    "path":"",
+    "params":"", 
+    "query":"", 
+    "fragment":"", 
+    "special_character":""
+}
